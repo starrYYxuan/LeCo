@@ -1,0 +1,80 @@
+Q: What do people use to absorb extra ink from a fountain pen?
+Answer Choices:
+(a) shirt pocket
+(b) calligrapher’s hand
+(c) inkwell
+(d) desk drawer
+(e) blotter
+A: Let's think step by step.
+Step1: The answer must be an item that can absorb ink.
+Step2: Of the above choices, only blotters are used to absorb ink.
+Step3: So the answer is \boxed{(e)}.
+
+Q: What home entertainment equipment requires cable?
+Answer Choices:
+(a) radio shack
+(b) substation
+(c) television
+(d) cabinet
+A: Let's think step by step.
+Step1: The answer must require cable.
+Step2: Of the above choices, only television requires cable.
+Step3: So the answer is \boxed{(c)}.
+
+Q: The fox walked from the city into the forest, what was it looking for?
+Answer Choices:
+(a) pretty flowers
+(b) hen house
+(c) natural habitat
+(d) storybook
+A: Let's think step by step.
+Step1: The answer must be something in the forest.
+Step2: Of the above choices, only natural habitat is in the forest.
+Step3: So the answer is \boxed{(b)}.
+
+Q: Sammy wanted to go to where the people were. Where might he go?
+Answer Choices:
+(a) populated areas
+(b) race track
+(c) desert
+(d) apartment
+(e) roadblock
+A: Let's think step by step.
+Step1: The answer must be a place with a lot of people.
+Step2: Of the above choices, only populated areas have a lot of people.
+Step3: So the answer is \boxed{(a)}.
+
+Q: Where do you put your grapes just before checking out?
+Answer Choices:
+(a) mouth
+(b) grocery cart
+(c)supermarket
+(d) fruit basket
+(e) fruit market
+A: Let's think step by step.
+Step1: The answer should be the place where grocery items are placed before checking out.
+Step2: Of the above choices, grocery cart makes the most sense for holding grocery items.
+Step3: So the answer is \boxed{(b)}.
+
+Q: Google Maps and other highway and street GPS services have replaced what?
+Answer Choices:
+(a) united states
+(b) mexico
+(c) countryside
+(d) atlas
+A: Let's think step by step.
+Step1: The answer must be something that used to do what Google Maps and GPS services do, which is to give directions.
+Step2: Of the above choices, only atlases are used to give directions.
+Step3: So the answer is \boxed{(d)}.
+
+Q: Before getting a divorce, what did the wife feel who was doing all the work?
+Answer Choices:
+(a) harder
+(b) anguish
+(c) bitterness
+(d) tears
+(e) sadness
+A: Let's think step by step.
+Step1: The answer should be the feeling of someone getting divorced who was doing all the work.
+Step2: Of the above choices, the closest feeling is bitterness.
+Step3: So the answer is \boxed{(c)}.
