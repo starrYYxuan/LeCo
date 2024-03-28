@@ -1,0 +1,61 @@
+Q: Can jackfruit be used as a weapon?
+A: Let's think step by step.
+Step1: Jackfruit is the fruit of a species of plant called the Jacktree.
+Step2: Jackfruit can weigh up to one hundred and twenty pounds.
+Step3: Jackfruit is covered in little spikes.
+Step4: Jackfruit can be thrown or flung at an enemy.
+Step5: A weapon is a thing that is used to cause bodily harm.
+Step6: Thus, Jackfruit can be used as a weapon
+Step7: So the answer is \boxed{(yes)}.
+
+Q: Does Neville Longbottom have more courage as a child than as an adult?
+A: Let's think step by step.
+Step1: Neville Longbottom is a character from the Harry Potter series.
+Step2: In the first few books of the Harry Potter series, Neville is a child.
+Step3: In the final few books of the Harry Potter series Neville is becoming an adult.
+Step4: Neville's first appearances in the series show him to be very cowardly.
+Step5: Neville is considered a hero by the end of the series.
+Step6: A hero should have more courage than a coward.
+Step7: Thus, Neville does not have more courage as a child than as an adult.
+Step8: So the answer is \boxed{(no)}.
+
+Q: Yes or no: Is Batman (1989 film) likely to be shown on flight from NY to Kansas City?
+A: Let's think step by step.
+Step1: A flight from NY to Kansas City is four and a half hours.
+Step2: The run time of Batman (1989 film) is two hours and six minutes.
+Step3: Batman (1989 film) is rated PG-13
+Step4: The average age group of passengers is 18-34.
+Step5: Airlines have relaxed their rules for in-flight movies in last few years and even R rated movies have been shown.
+Step6: The Batman movie has shorter duration than the flight, and complies with the law.
+Step7: Thus, Batman is likely to be shown on flight from NY to Kansas City
+Step8: So the answer is \boxed{(yes)}.
+
+Q: Yes or no: Did Operation Barbarossa or Barbarossa's last expedition succeed?
+A: Let's think step by step.
+Step1: Operation Barbarossa was the Nazi advance on Russia during World War II.
+Step2: Operation Barbarossa was a failure that resulted in Nazi Germany being pushed back by a Soviet counter offensive.
+Step3: Operation Barbarossa was named after Holy Roman Emperor Frederick Barbarossa.
+Step4: On his final expedition, Frederick Barbarossa drowned while leading an army to help the Crusaders during the Third Crusade.
+Step5: The Crusaders failed to recapture Jerusalem during the Third Crusade without the support of Barbarossa and his troops.
+Step6: Thus, neither did Operation Barbarossa nor Barbarossa's last expedition succeed.
+Step7: So the answer is \boxed{(no)}.
+
+Q: Yes or no: Did Jack Dempsey have most title fight wins in either of his weight classes?
+A: Let's think step by step.
+Step1: Jack Dempsey competed as a heavyweight and a lightheavyweight.
+Step2: Jack Dempsey only had a handful of title defenses as heavyweight champion.
+Step3: Wladimir Klitschko had 25 heavyweight title fight wins.
+Step4: Jack Dempsey did not hold the lightheavyweight title.
+Step5: Dariusz Michalczewski had 23 lightheavyweight title fight wins.
+Step6: Thus, Jack Dempsey did not have most title in either heavyweight or lightheavyweight.
+Step7: So the answer is \boxed{(no)}.
+
+Q: Yes or no: Has numerology helped shape hotel layouts?
+A: Let's think step by step.
+Step1: Numerology is the study of numbers and how they relate to events.
+Step2: Numbers such as 3 and 7 hold biblical significance.
+Step3: Numbers such as 6 and 13 are said to be unlucky.
+Step4: The thirteenth floor is a designation of a level of a multi-level building that is often omitted in countries where the number 13 is considered unlucky.
+Step5: Many hotels do not have thirteenth floors because of the enduring superstition.
+Step6: Thus, numerology has helped shape hotel layouts.
+Step7: So the answer is \boxed{(yes)}.
