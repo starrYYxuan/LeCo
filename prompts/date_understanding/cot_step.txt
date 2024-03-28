@@ -1,0 +1,39 @@
+Q: 2015 is coming in 36 hours. What is the date one week from today in MM/DD/YYYY?
+Options:
+(A) 01/05/2015
+(B) 01/06/2015
+(C) 12/05/2014
+(D) 01/05/1938
+(E) 01/04/2015
+(F) 01/07/2015
+A: Let's think step by step.
+Step1: If 2015 is coming in 36 hours, then it is coming in 2 days.
+Step2: 2 days before 01/01/2015 is 12/30/2014, so today is 12/30/2014.
+Step3: So one week from today will be 01/05/2015.
+Step4: So the answer is \boxed{(A)}.
+
+Q: The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date today in MM/DD/YYYY?
+Options:
+(A) 10/28/2018
+(B) 01/06/2019
+(C) 12/31/2018
+(D) 01/07/2019
+(E) 01/12/2019
+(F) 12/24/2018
+A: Let's think step by step.
+Step1: If the first day of 2019 was Tuesday, then 01/01/2019 was a Tuesday.
+Step2: Today is the first monday, would be six days later.
+Step3: So today is 01/07/2019.
+Step4: So the answer is \boxed{(D)}.
+
+Q: The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date 10 days ago in MM/DD/YYYY?
+Options:
+(A) 05/24/1943
+(B) 05/23/1943
+(C) 05/21/1943
+(D) 07/01/1943
+(E) 10/23/1942
+A: Let's think step by step.
+Step1: One day after 06/01/1943 is 06/02/1943, so today is 06/02/1943.
+Step2: 10 days before today is 05/23/1943.
+Step3: So the answer is \boxed{(B)}.
