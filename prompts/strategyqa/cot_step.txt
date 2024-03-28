@@ -1,0 +1,41 @@
+Q: Do hamsters provide food for any animals?
+A: Let's think step by step.
+Step1: Hamsters are prey animals.
+Step2: Prey are food for predators.
+Step3: Thus, hamsters provide food for some animals.
+Step4: So the answer is \boxed{(yes)}.
+
+Q: Could Brooke Shields succeed at University of Pennsylvania?
+A: Let's think step by step.
+Step1: Brooke Shields went to Princeton University.
+Step2: Princeton University is about as academically rigorous as the University of Pennsylvania.
+Step3: Thus, Brooke Shields could also succeed at the University of Pennsylvania.
+Step4: So the answer is \boxed{(yes)}.
+
+Q: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?
+A: Let's think step by step.
+Step1: Hydrogen has an atomic number of 1. 1 squared is 1.
+Step2: There are 5 Spice Girls.
+Step3: Thus, Hydrogen’s atomic number squared is less than 5.
+Step4: So the answer is \boxed{(no)}.
+
+Q: Yes or no: Is it common to see frost during some college commencements?
+A: Let's think step by step.
+Step1: College commencement ceremonies can happen in December, May, and June.
+Step2: December is in the winter, so there can be frost.
+Step3: Thus, there could be frost at some commencements.
+Step4: So the answer is \boxed{(yes)}.
+
+Q: Yes or no: Could a llama birth twice during War in Vietnam (1945-46)?
+A: Let's think step by step.
+Step1: The War in Vietnam was 6 months.
+Step2: The gestation period for a llama is 11 months, which is more than 6 months.
+Step3: Thus, a llama could not give birth twice during the War in Vietnam.
+Step4: So the answer is \boxed{(no)}.
+
+Q: Yes or no: Would a pear sink in water?
+A: Let's think step by step.
+Step1: The density of a pear is about 0.6g/cm3, which is less than water.
+Step2: Objects less dense than water float.
+Step3: Thus, a pear would float.
+Step4: So the answer is \boxed{(no)}.
