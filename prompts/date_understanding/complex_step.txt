@@ -8,7 +8,7 @@ Options:
 (D) 12/14/1937
 (E) 07/14/1938
 (F) 12/14/1988
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: If today is Christmas Eve of 1937, then today's date is December 24, 1937.
 Step2: 10 days before today is December 14, 1937, that is 12/14/1937.
 Step3: So the answer is \boxed{(D)}.
@@ -20,7 +20,7 @@ Options:
 (C) 08/25/2018
 (D) 11/02/2018
 (E) 11/04/2018
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: If tomorrow is 11/12/2019, then today is 11/11/2019.
 Step2: The date one year ago from today is 11/11/2018.
 Step3: So the answer is \boxed{(B)}.
@@ -33,7 +33,7 @@ Options:
 (D) 10/14/1960
 (E) 01/03/1982
 (F) 12/03/1960
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: If Jane and John married on Jan 2, 1958, then and if it is their 5-year anniversary today, then today's date is Jan 2, 1963.
 Step2: The date tomorrow is Jan 3, 1963, that is 01/03/1963.
 Step3: So the answer is \boxed{(B)}.
