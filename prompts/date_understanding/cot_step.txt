@@ -6,7 +6,7 @@ Options:
 (D) 01/05/1938
 (E) 01/04/2015
 (F) 01/07/2015
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: If 2015 is coming in 36 hours, then it is coming in 2 days.
 Step2: 2 days before 01/01/2015 is 12/30/2014, so today is 12/30/2014.
 Step3: So one week from today will be 01/05/2015.
@@ -20,7 +20,7 @@ Options:
 (D) 01/07/2019
 (E) 01/12/2019
 (F) 12/24/2018
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: If the first day of 2019 was Tuesday, then 01/01/2019 was a Tuesday.
 Step2: Today is the first monday, would be six days later.
 Step3: So today is 01/07/2019.
@@ -33,7 +33,7 @@ Options:
 (C) 05/21/1943
 (D) 07/01/1943
 (E) 10/23/1942
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: One day after 06/01/1943 is 06/02/1943, so today is 06/02/1943.
 Step2: 10 days before today is 05/23/1943.
 Step3: So the answer is \boxed{(B)}.
