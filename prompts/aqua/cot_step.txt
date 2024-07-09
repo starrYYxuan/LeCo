@@ -1,26 +1,26 @@
 Q: John found that the average of 15 numbers is 40. If 10 is added to each number then the mean of the numbers is?
 Options: A) 50, B) 45, C) 65, D) 78, E) 64
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: If 10 is added to each number, then the mean of the numbers also increases by 10.
 Step2: So the new mean would be 50. T
 Step3: The answer is \boxed{A)}.
 
 Q: If a / b = 3/4 and 8a + 5b = 22,then find the value of a.
 Options: A) 1/2, B) 3/2, C) 5/2, D) 4/2, E) 7/2
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: a / b = 3/4, then b = 4a / 3. So 8a + 5(4a / 3) = 22.
 Step2: This simplifies to 8a + 20a / 3 = 22, which means 44a / 3 = 22. So a is equal to 3/2. 2
 Step3: The answer is \boxed{B)}.
 
 Q: A person is traveling at 20 km/hr and reached his destiny in 2.5 hr then find the distance?
 Options: A) 53 km, B) 55 km, C) 52 km, D) 60 km, E) 50 km
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: The distance that the person traveled would have been 20 km/hr * 2.5 hrs = 50 km.
 Step2: The answer is \boxed{E)}.
 
 Q: How many keystrokes are needed to type the numbers from 1 to 500?
 Options: A) 1156, B) 1392, C) 1480, D) 1562, E) 1788
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: There are 9 one-digit numbers from 1 to 9.
 Step2: There are 90 two-digit numbers from 10 to 99.
 Step3: There are 401 three-digit numbers from 100 to 500.
