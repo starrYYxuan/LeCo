@@ -5,7 +5,7 @@ Answer Choices
 (c) fucking
 (d) anger
 (e) satisfaction
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: The answer should be good qualities for negotiation because seeking sextual partners outside marriage is a very delicate matter.
 Step2: Of the above choices, calmness is the most suitable when discussing potential sextual partners outside marriage without breaking the merrage.
 Step3: So the answer is \boxed{(a)}
@@ -17,7 +17,7 @@ Answer Choices
 (c) building
 (d) real estate office
 (e) store room
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: The answer should be a place related to saling and also the item being saled should worth 80,000
 Step2: Of the above choices, real estate office is about selling properties and a property can be around 80,000.
 Step3: So the answer is \boxed{(d)}
@@ -29,7 +29,7 @@ Answer Choices
 (c) calmness
 (d) fucking
 (e) handshake
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: The answer should be something that is not considered as normal business and influence the objectivity.
 Step2: Of the above choices, fucking is not a professional deed and would attach subjectivity to the two parties.
 Step3: So the answer is \boxed{(d)}
@@ -41,7 +41,7 @@ Answer Choices
 (c) large building
 (d) school
 (e) town hall
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: The answer should be somewhere that is not for the good and convenience of the people.
 Step2: Of the above choices, large building is the only neural description of a building owned by a billionaire.
 Step3: So the answer is \boxed{(c)}
@@ -53,7 +53,7 @@ Answer Choices
 (c) run out of money
 (d) spending money
 (e) deficit
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: The answer should be something related to shopping, within the limit, and not fully satisfactory.
 Step2: Of the above choices, overspending is the choice that Joe can take but not enough.
 Step3: So the answer is \boxed{(a)}
@@ -65,7 +65,7 @@ Answer Choices
 (c) pay bills
 (d) learn from each other
 (e) believe in ghosts
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: The answer should be something related to religion that all members share.
 Step2: Of the above choices, believing in god is a character the all members of a religion share.
 Step3: So the answer is \boxed{(b)}
@@ -77,7 +77,7 @@ Answer Choices
 (c) dard
 (d) closed room
 (e) sky
-A: Let's think step by step.
+Answer: Let's think step by step.
 Step1: The answer should be something having a blinding strong light.
 Step2: Of the above choices, the sky may have blinding light because of the sun.
 Step3: So the answer is \boxed{(e)}
