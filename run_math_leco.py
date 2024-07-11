@@ -187,13 +187,13 @@ def extract_token_logprobs(logits):
 def token_efficient_reasoning(seed):
     # load datasets
     arg_parse = argparse.ArgumentParser()
-    arg_parse.add_argument("--dataset_path", type=str, default="/home/wuhan/yuxuan/LeCo/algebra/")
-    arg_parse.add_argument("--test_idx_set", type=str, default="Null")
-    arg_parse.add_argument("--prompts", type=str, default="/home/wuhan/yuxuan/LeCo/prompts/complex_math_base.txt")
+    arg_parse.add_argument("--dataset_path", type=str, default=None, required=True)
+    arg_parse.add_argument("--test_idx_set", type=str, default=None)
+    arg_parse.add_argument("--prompts", type=str, default=None, required=True)
     arg_parse.add_argument("--engine", type=str, default="deepseek")
     arg_parse.add_argument("--temp", type=float, default=0.)
-    arg_parse.add_argument("--output_dir", type=str, default="./exp_results1")
-    arg_parse.add_argument("--ckpt_dir", type=str, default="/home/wuhan/models/deepseek_models/deepseek-math-7b-rl/")
+    arg_parse.add_argument("--output_dir", type=str, default="./exp_results")
+    arg_parse.add_argument("--ckpt_dir", default=None, required=True)
 
     arg_parse.add_argument("--divergence_type", type=str, default='KL')
 
