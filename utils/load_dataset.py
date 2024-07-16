@@ -132,3 +132,23 @@ def load_dataset(test_set, test_idx_set):
         }
 
         return sqa_test_qs, sqa_test_ans, system_prompt
+
+    if 'svamp' in test_set.lower():
+        svamp_test_qs = []
+        svamp_test_ans = []
+        with open(test_set, 'r') as rf2:
+            json_data = json.load(rf2)
+            for line in json_data:
+                q = line["Body"].strip() + " " + line["Question"].strip()
+                a = str(line["Answer"])
+                svamp_test_qs.append(q)
+                svamp_test_ans.append(a)
+
+        system_prompt = {
+            "role": "system",
+            "content": "Follow the given examples and answer the question."
+                       "The last sentence must be: The answer is \\box{}. The number of final answer is filled into \\boxed{}."
+                       "Describe your thought process step-by-step using Step 1, Step 2, ... etc."
+        }
+
+        return svamp_test_qs, svamp_test_ans, system_prompt
