@@ -18,7 +18,7 @@ bash run_leco.sh
 For GPT series:
 
 ```
-bash run_gpt_leco.py
+python run_gpt_leco.py
 ```
 
 ## Citation
