@@ -57,6 +57,15 @@ def extract_math_answer(pred_str,test_set):
             else:
                 pred = 'Null'
 
+        if 'svamp' in test_set.lower():
+            pattern = r'-?\d*[\.,]?\d+'
+            pred = re.findall(pattern, ans)
+
+            if (len(pred) >= 1):
+                # print(pred_str)
+                pred = float(pred[-1].replace(',', ''))
+            else:
+                pred = float('nan')
 
     except Exception:
         print(f"Cannot parse the resulting num in predicted solution {pred_str}.\n")
