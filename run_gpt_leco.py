@@ -10,9 +10,9 @@ from utils.divergence import *
 from utils.load_dataset import *
 from utils.process_pred_str import *
 
-os.environ['http_proxy'] = 'http://w84317177:%40Wh138870710@proxysg.huawei.com:8080'
-os.environ['https_proxy'] = 'http://w84317177:%40Wh138870710@proxysg.huawei.com:8080'
-os.environ['no_proxy'] = '10.213.96.114'
+os.environ['http_proxy'] = 'Your proxy'
+os.environ['https_proxy'] = 'Your proxy'
+os.environ['no_proxy'] = 'Your proxy'
 
 
 def majorElement(num_list):
